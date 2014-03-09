@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# (C) 2014 Chip Black
+# Available under the MIT License; see the LICENSE file
 import curses
 import yaml
 import time

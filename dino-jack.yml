@@ -1,0 +1,195 @@
+---
+
+- image: images/YDKDJ title.png
+- title:
+    head: Part 1
+    text: |
+      Just Your Friendly Neigborhood Dinosaurs
+- q: >
+    In the webcomic Dinosaur Comics, T-Rex rambles about his many existential
+    crises with his gay best friend, who provides a sane counterpoint.  What
+    kind of dinosaur is T-Rex's buddy?
+  a:
+    - Dromiceiomimus
+    - Utahraptor
+    - Pterodactyl
+    - Allosaurus
+  w: 1
+- q: >
+    The Dinobots were a group of five Autobot Transformers who
+    (surprise) transformed into dinosaurs.  They included Grimlock, a T.
+    Rex; Slag, a Triceratops; Sludge, an Apatosaurus; Snarl, a
+    Stegosaurus; and Swoop, a what?
+  a:
+    - Elasmosaurus
+    - Ankylosaurus
+    - Pteranodon
+    - Struthiomimus
+  w: 2
+- title:
+    head: Video Question!
+    text: ''
+- video: videos/Dino.mp4
+- q: >
+    What kind of dinosaur is Dino?
+  a:
+    - Apatosaurus
+    - Brontosaurus
+    - Parasaurolophus
+    - Snorkasaurus
+  w: 3
+- q: >
+    In the 1988 movie The Land Before Time, Littlefoot and his four
+    friends confront disaster and loss. They ultimately survive the
+    famine by journeying to the Great Valley, where they reunite with
+    their families and find plentiful amounts of what type of food?
+  a:
+    - Tree-Stars
+    - Marionberries
+    - Fern-Gullies
+    - Frond-Petals
+  w: 0
+- title:
+    head: Video Question!
+    text: ''
+- video: videos/Walk the Dinosaur.mp4
+- q: What is the name of that band?
+  a:
+    - Was (Not Was)
+    - Dinotasia
+    - Wham!
+    - Men Without Hats
+  w: 0
+  points: 20
+    
+
+- title:
+    head: Part 2
+    text: |
+      Being a dinosaur nerd in grade
+      school sure is paying off now!
+- q: >
+    Because of limited and often fragmentary specimens, the study of
+    dinosarus has been fraught with mistakes.  Apatosaurus, for example,
+    was so incomplete when it was discovered that it was called by a
+    completely different name. What was that name?
+  a:
+    - Diplodocus
+    - Camarasaurus
+    - Brachiosaurus
+    - Brontosaurus
+  w: 3
+  points: 15
+- q: >
+    Tyrannosaurus Rex is known as the most fearsome carnivore of the late
+    Cretaceous period (despite being featured prominently in Jurassic
+    Park). "Rex" is Latin for "King", but what does "Tyrannosaurus"
+    mean?
+  a:
+    - Terrible Lizard
+    - Tyrian Lizard
+    - Tyrant Lizard
+    - Totally Awesome Lizard
+  w: 2
+  points: 15
+- q: >
+    For most of paleontological understanding, dinosaurs have been
+    covered in scales much like their modern reptilian relatives.  But
+    recently, it is theorized that some dinosaurs, including
+    Tyrannosaurs and Velociraptors, were covered in what?
+  a:
+    - hair
+    - quills
+    - Duck Tape
+    - feathers
+  w: 3
+  points: 15
+- q: >
+    Dinosaurs are roughly divided into two groups based on their hip
+    structure.  Saurischians have a "lizard-hipped" configuration, while
+    Ornithischians have hipbones similar to what?
+  a:
+    - frogs
+    - birds
+    - cats
+    - mushrooms
+  w: 1
+  points: 15
+- q: >
+    With a name meaning "terrible lizard," it's not that weird to be
+    afraid of dinosaurs.  What is the psychological term for fear of
+    dinosaurs?
+  a:
+    - Dinophobia
+    - Tyrannophobia
+    - Ornithoscelidaphobia
+    - Icthyophobia
+  w: 2
+  points: 30
+
+- video: videos/Jurassic Park.mp4
+- title:
+    head: Part 3
+    text: |
+      Bring Back Dinosaurs?
+      What Could Possibly Go Wrong?
+- q: >
+    In Jurassic Park, Dennis Nedry tried to make off with a cache of dinosaur
+    embryos hidden in a can of Barbasol shaving foam.  Unfortunately for him,
+    he didn't quite make it.  What dinosaur did he get killed and eaten by?
+  a:
+    - Velociraptor
+    - Dilophosaurus
+    - Tyrannosaurus
+    - Ankylosaurus
+  w: 1
+  points: 20
+- q: >
+    Billionaire John Hammond whisks away paleontologists Alan Grant and
+    Ellie Sattler to Isla Nublar, where he reveals that his company has
+    developed the technology to clone dinosaurs from fossil tissue.
+    What is the name of John Hammond's company?
+  a:
+    - Massive Dynamics
+    - Initech
+    - InGen
+    - Veridian Dynamics
+  w: 2
+  points: 20
+- title:
+    head: Video Question!
+    text: ''
+- video: videos/Jurassic Cats.mp4
+- q: What dinosaur was expertly replaced by cats in that video?
+  a:
+    - Allosaurus
+    - Velociraptor
+    - Utahraptor
+    - Compsognathus
+  w: 1
+  points: 20
+- q: >
+    In addition to the various physical safeguards that failed, several
+    biological safeguards were put in place to keep the park dinosaurs
+    under control. The first and most basic was that all the dinosaurs
+    were female. Later, it was discovered that some dinosaurs could
+    self-sex change and were breeding because of donor DNA from which
+    animal?
+  a:
+    - frogs
+    - lizards
+    - salamanders
+    - chickens
+  w: 0
+  points: 20
+- q: >
+    The first was that all the dinosaurs were female. The
+    second was that they were engineered to have an inability to produce
+    which amino acid?
+  a:
+    - Leucine
+    - Phenylalanine
+    - Methionine
+    - Lysine
+  w: 3
+  points: 40
